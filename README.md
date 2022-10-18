@@ -6,8 +6,10 @@ Programamos una calculadora como primer ejemplo
 
 #Integrantes del grupo:
 
-1.- Jelsin PALOMINO HUAYTAPUMA
-2.- Maria GONZALES BALDERA
-3.- Natalia PAIRA PEREZ
-4.- Nicki SAINEZ PEZANTES
-5.- Rodmel CALDERON CORONADO
+<ol>
+  <li>Jelsin PALOMINO HUAYTAPUMA </li>
+  <li>Maria GONZALES BALDERA </li>
+  <li>Natalia PAIRA PEREZ </li>
+  <li>Nicki SAINEZ PEZANTES </li>
+  <li>Rodmel CALDERON CORONADO </li>
+</ol>
